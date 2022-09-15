@@ -3,6 +3,7 @@
 Integrantes del Equipo: 
 
   -Isabela Valls 
+  
   -Raul Resendiz
   
 Resumen del producto: 

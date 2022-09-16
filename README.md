@@ -9,6 +9,8 @@
   -Victoria Ordorica 
   
   -Gustavo Escobar
+ 
+  -Santiago Hernández
   
 ## Resumen del producto: 
 

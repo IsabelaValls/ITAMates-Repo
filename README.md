@@ -2,6 +2,8 @@
 
 ## Integrantes del Equipo: 
 
+  -Luis Fernando Ramirez
+
   -Isabela Valls 
   
   -Raul Resendiz

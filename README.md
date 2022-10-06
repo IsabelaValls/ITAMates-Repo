@@ -104,7 +104,10 @@ Conforme las plataformas de peer-to-peer se vuelven más populares y abarcan má
 
 <!-- Roadmap -->
 ## :compass: Roadmap
-https://isabelavlls.atlassian.net/jira/software/projects/IT/boards/1/roadmap?shared=&atlOrigin=eyJpIjoiODZlNTcxNjM5MTM3NDU1YWExMjQ1OWIwYTA1NGM1MTIiLCJwIjoiaiJ9
+
+<img width="1062" alt="Captura de Pantalla 2022-10-06 a la(s) 15 27 34" src="https://user-images.githubusercontent.com/35547664/194412144-c83c3001-f40a-4098-8e38-ea4d50d5398e.png">
+<a href="https://isabelavlls.atlassian.net/jira/software/projects/IT/boards/1/roadmap?shared=&atlOrigin=eyJpIjoiODZlNTcxNjM5MTM3NDU1YWExMjQ1OWIwYTA1NGM1MTIiLCJwIjoiaiJ9">LinkRoadMap</a>
+
 
 ## Plan de calidad
 
@@ -120,78 +123,65 @@ https://isabelavlls.atlassian.net/jira/software/projects/IT/boards/1/roadmap?sha
 |12 horas semanales |Cantidad de horas semanales que pueden trabajar los programadores. Cada desarrollador cuenta con 2 horas de trabajo semanal | Se busca mejorar el ánimo del equipo y evitar errores por cansancio y aumentar productividad |
 
 
-### 1
-
-Qué  -Visualización correcta del asesor 
-
-Quién - Victoria Ordorica Pardo
-
-Cuándo - Iniciar el 10 de Octubre 
-
-Cómo - Curriculum en su perfil con opción de descarga; Apartado con las calificaciones del asesor; Foto del asesor; Datos personales del Asesor.
-
-Para qué-El alumno podrá ver la información completa del asesor para decidir si se acomoda a sus necesidades.
-
-Documentación - Visto bueno por todos los integrantes del equipo 
 
 
-#2
-
-Qué - Cobro correcto de una clase
-
-Quién - Luis Fernando Ramírez
-
-Cuándo - Iniciar el 30 de Octubre 
-
-Cómo - Pago mediante Paypal, envío de correo de confirmación de pago al alumno, visibilidad de los datos de la clase en la cuenta del alumno. 
-
-Para qué- Mayor seguridad del usuario para realizar el pago en línea; Cuenta de PayPal vigente con datos fiscales correctos.
-
-Documentación -Visto bueno por todos los integrantes del equipo; Registro de las facturas 	
+### Planes de calidad concretos
 
 
-#3
-
-Qué - Correcto inicio de sesión de roles 
-
-Quién - Gustavo Alejandro Escobar Rea
-
-Cuándo - Iniciar el 10 de Octubre
-
-Cómo - La Clave Única del alumno existe y está vigente; Se omiten los ceros al inicio de la clave única; El correo institucional sirve como respaldo por si el alumno 
-necesita recuperar su contraseña; El correo registrado del asesor sirve como respaldo para recuperar su contraseña;
-
-Para qué- Se tiene mayor control sobre el acceso de los alumnos, asesores y administradores; Facilita la creación de usuarios así como su identificación y su asignación de rol;
-
-Documentación -Visto bueno por todos los integrantes del equipo
+| |**Plan de calidad  1**|
+| ----------------- | ---------------------- |
+|**Qué** | Visualización correcta del asesor |
+|**Quién** |Victoria Ordorica Pardo|
+|**Cuándo**| Iniciar el 10 de Octubre |
+|**Cómo**|  Curriculum en su perfil con opción de descarga; Apartado con las calificaciones del asesor; Foto del asesor; Datos personales del Asesor|
+|**Para qué**| El alumno podrá ver la información completa del asesor para decidir si se acomoda a sus necesidades|
+|**Documentación** | Visto bueno por todos los integrantes del equipo | <br>
 
 
-#4
-
-Qué - Correcta visualización de las clases disponibles 
-
-Quién -  Raúl Isaac Reséndiz Zayas
-
-Cuándo - Iniciar el 20 de Octubre 
-
-Cómo - En un apartado de la página, se visualizan las materias que cuentan con clases disponibles; las clases disponibles están ordenadas acorde a su fecha y su hora de impartición; Dentro de la información de la clase aparece el nombre del asesor que la impartirá; El alumno puede dar click a un enlace para ver el perfil del asesor;
-
-Para qué- Al alumno se le facilita buscar la materia para la cual requiere una asesoría; Se evita mostrar la información desordena;
-
-Documentación - Visto bueno por todos los integrantes del equipo
 
 
-#5
+| |**Plan de calidad  2**|
+| ----------------- | ---------------------- |
+|**Qué**| Cobro correcto de una clase|
+|**Quién**| Luis Fernando Ramírez|
+|**Cuándo**|  Iniciar el 30 de Octubre |
+|**Cómo**|  Pago mediante Paypal, envío de correo de confirmación de pago al alumno, visibilidad de los datos de la clase en la cuenta del alumno| 
+|**Para qué**| Mayor seguridad del usuario para realizar el pago en línea; Cuenta de PayPal vigente con datos fiscales correctos|
+|**Documentación**| Visto bueno por todos los integrantes del equipo; Registro de las facturas |
 
-Qué - Correcta implementación de base de datos 
 
-Quién - Santiago Hernández Gutiérrez y Isabela Valls Chávez
 
-Cuándo - Iniciar el 8 de Octubre
 
-Cómo - Uso de módulo SQLite3 para Python y el programa DB Browser para la creación de base de datos.
+| |**Plan de calidad  3**|
+| ----------------- | ---------------------- |
+|**Qué**| Correcto inicio de sesión de roles |
+|**Quién**|  Gustavo Alejandro Escobar Rea|
+|**Cuándo**|  Iniciar el 10 de Octubre|
+|**Cómo**|  La Clave Única del alumno existe y está vigente; Se omiten los ceros al inicio de la clave única; El correo institucional sirve como respaldo por si el alumno necesita recuperar su contraseña; El correo registrado del asesor sirve como respaldo para recuperar su contraseña|
+|**Para qué**| Se tiene mayor control sobre el acceso de los alumnos, asesores y administradores; Facilita la creación de usuarios así como su identificación y su asignación de rol|
+|**Documentación**| Visto bueno por todos los integrantes del equipo|
 
-Para qué - De esta manera aseguramos una base de datos eficiente; Y posible implementación en la interfaz 
 
-Documentación - Visto bueno por todos los integrantes del equipo
+
+
+| |**Plan de calidad  4**|
+| ----------------- | ---------------------- |
+|**Qué**| Correcta visualización de las clases disponibles |
+|**Quién**|   Raúl Isaac Reséndiz Zayas|
+|**Cuándo**| Iniciar el 20 de Octubre |
+|**Cómo**| En un apartado de la página, se visualizan las materias que cuentan con clases disponibles; las clases disponibles están ordenadas acorde a su fecha y su hora de impartición; Dentro de la información de la clase aparece el nombre del asesor que la impartirá; El alumno puede dar click a un enlace para ver el perfil del asesor|
+|**Para qué**| Al alumno se le facilita buscar la materia para la cual requiere una asesoría; Se evita mostrar la información desordena|
+|**Documentación**| Visto bueno por todos los integrantes del equipo|
+
+
+
+
+| |**Plan de calidad  5**|
+| ----------------- | ---------------------- |
+|**Qué**|Correcta implementación de base de datos|
+|**Quién**| Santiago Hernández Gutiérrez y Isabela Valls Chávez|
+|**Cuándo**|  Iniciar el 8 de Octubre|
+|**Cómo**| Uso de módulo SQLite3 para Python y el programa DB Browser para la creación de base de datos|
+|**Para qué**|De esta manera aseguramos una base de datos eficiente; Y posible implementación en la interfaz|
+|**Documentación**| Visto bueno por todos los integrantes del equipo|
 

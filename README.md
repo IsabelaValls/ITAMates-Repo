@@ -57,9 +57,41 @@ Conforme las plataformas de peer-to-peer se vuelven más populares y abarcan má
 
 | ID         | Nombre     |Descripción |
 | ----------------- | --------------------------------- |-----------------|
-|RF1| | |
-|RF2| | |
-|RF3| | |
+|RF1|Registrar usuario | El sistema permite que los alumnos del ITAM se den de alta en la base de datos del sistema y puedan solicitar asesorías|
+|RF2|Selección de rol |El sistema presenta una pantalla sencilla que desplegará tres botones, cada uno correspondiente a asesor, alumno y administrador. |
+|RF3|Interfaz de Alumno |El sistema presenta una interfaz que muestra el menú de todas las funcionalidades del sistema. Los alumnos y asesores visualizan las diferentes materías impartidas, los asesores y noticias del sistema.|
+|RF4|Visualizar perfil asesores|El sistema deberá permitir que todos los usuarios puedan visualizar todos los asesores y sus descripciones actualizadaS|
+|RF5|Visualizar horarios de asesorías|El sistema deberá permitir que los alumnos puedan visualizar los horarios de asesorías mostrando la matería, nombre del asesor y precio |
+|RF6|Visualizar noticias |El sistema deberá permitir que todos los usuarios puedan consultar las diferentes noticias que se publican en el sistema|
+|RF7|Publicar noticias|El sistema permite que asesores y administrativos puedan publicar nuevas noticias |
+|RF8|Ingreso al sistema de alumno y asesor|El sistema permite que se ingrese clave única y contraseña que será validada en la base de datos para permitir acceso o negarlo|
+|RF9|Ingreso al sistema de administrador|El sistema debe aceptar un correo electrónico y una contraseña para permitir el acceso al sistema. El sistema valida la información en la base de datos de administrador que tienen acceso a gestionar información comprometedora |
+|RF10|Perfil de asesor|El sistema presenta una interfaz donde se despliega la información básica del asesor con foto y reviews. Formato similar al perfil personal Likedin|
+|RF11|Actualizar descripción|El sistema permite que el asesor pueda actualizar sus datos|
+|RF12|Registrar review|El sistema permite que al finalizar clase el alumno deje un comentario sobre su experiencia con la asesoría|
+|RF13|Compartir contenido|El sistema permite que el asesor pueda publicar documentos relevantes para su materia|
+|RF14|actualizar base de datos de asesor|El sistema debe actualizar los datos y validar que la información tenga coherencia|
+|RF15|Registrar horarios de disponibilidad|El sistema permite que el asesor registre sus horarios de disponibilidad|
+|RF16|Interfaz de horario alumno|El sistema muestra una página que muestra los horarios disponibilidad de horarios. Muestra nombre de materia y asesor por cada horario|
+|RF17|Interfaz de horario asesor|El sistema muestra las citas agendadas y el historial de clases impartidas|
+|RF18|Interfaz de horario administrador|El sistema permite que el administrador actualice información de exámenes y puede agendar o cancelar asesorías|
+|RF19|Interfaz de citas alumno|El sistema muestra la vista para agendar cita|
+|RF20|Solicitar asesoría|El sistema debe de permitir solicitar asesoría a un alumno|
+|RF21|Registrar cita|El sistema despues de la validación de un administrador, registra los datos de la asesoría en la base de datos de asesoría|
+|RF22|Interfaz de citas asesor|El sistema muestra la vista para confirmar o rechazar citas|
+|RF23|Confirmar cita|El sistema deberá permitir al asesor registrar una cita y confirmar|
+|RF24|Cancelar cita|El sistema deberá permitir al asesor cancelar cita y registrar la razón de la cancelación|
+|RF25|Envío de confirmación|El sistema debe de notificar al alumno de la aceptación de su cita vía correo registrado|
+|RF26|Interfaz de pago|El sistema muestra la vista para realizar el pago despues de que la cita fue confirmada|
+|RF27|Pagar monto Paypal|El sistema debe de permitir pagar el monto de la asesoría por medio de cuenta paypal
+|RF28|Listar todos los alumnos registrados|El sistema muestra la lista de todos los alumnos si un administrador lo requiere|
+|RF29|Lanzar mensaje de recuperación contraseña|El sistema debe de arrojar mensaje y permitir recuperación de contraseña en caso de olvidar contraseña|
+|RF30|Ajustar imagen para inserción|El sistema debe de poder mostrar las imagenes en el formato requerido|
+|RF31|Formulario para consultas|El sistema muestra una ventana para consultas con asesores y/o administradores|
+|RF32|Contacto con asesores|El sistema despliega formas de contacto con los asesores|
+|RF33|Eliminar alumno|El sistema permite eliminar alumno en la base de datos con permiso de los administradores|
+|RF34|Modificar registro de alumno|El sistema permite que se actualice la base de datos por alumno o administrador|
+
 
 
 <!-- Roadmap -->

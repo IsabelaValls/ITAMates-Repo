@@ -181,7 +181,7 @@ Conforme las plataformas de peer-to-peer se vuelven más populares y abarcan má
 |**Qué**|Correcta implementación de base de datos|
 |**Quién**| Santiago Hernández Gutiérrez y Isabela Valls Chávez|
 |**Cuándo**|  Iniciar el 8 de Octubre|
-|**Cómo**| Uso de módulo SQLite3 para Python y el programa DB Browser para la creación de base de datos|
-|**Para qué**|De esta manera aseguramos una base de datos eficiente; Y posible implementación en la interfaz|
+|**Cómo**| Uso de PosgreSQL para hostear la base de datos y DBeaver para la gestión|
+|**Para qué**|Asegurar una BD segura y robusta que pueda manejar las solicitudes y estar siempre activa|
 |**Documentación**| Visto bueno por todos los integrantes del equipo|
 

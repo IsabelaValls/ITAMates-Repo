@@ -6,7 +6,7 @@
 - [Sobre el proyecto](#star2-sobre-el-proyecto)
   * Integrantes del proyecto
   * Resumen del producto
-  * Requisitos
+  * Requerimientos
   
 - [Roadmap](#compass-roadmap)
 - [Plan de calidad](#plan-de-calidad)
@@ -34,8 +34,8 @@
 Conforme las plataformas de peer-to-peer se vuelven más populares y abarcan más áreas de la vida diaria, la necesidad de conectar alumnos que se interesan por los mismos temas se vuelve más importante. Es con este propósito que surge ITAMates, un proyecto impulsado por el Instituto Tecnológico Autónomo de México que permitirá a los estudiantes sobresalientes ofrecer asesorías a cambio de compensación económica. Esta aplicación, que será exclusiva para alumnos del ITAM, será gestionada por las autoridades escolares, por lo que se brindará especial atención a detectar casos de fraude académico. Busca competir con otras plataformas similares bajo la premisa de que los oferentes son avalados por la institución. Se buscará digitalizar las actuales labores de facultad menor y los laboratorios; de esta manera, los estudiantes podrán sacar máximo provecho a las herramientas que tienen a su disposición. 
 
 
-<!-- Requisitos -->
-## :grey_question: Requisitos
+<!-- Requerimientos -->
+## :grey_question: Requerimientos
 ### Objetivos del sistema
 | ID         | Nombre     |Descripción |
 | ----------------- | --------------------------------- |-----------------|
@@ -43,7 +43,7 @@ Conforme las plataformas de peer-to-peer se vuelven más populares y abarcan má
 |OBJ02| Ofrecer asesorías |El sistema deberá permitir que alumnos del ITAM puedan ofrecer clases con beneficios económicos |
 |OBJ3|Gestionar asesorías| El sistema permitira que el administrador tenga control de todas las clases impartidas |
 
-### Requisitos funcionales de información
+### Requerimientos funcionales de información
 
 | ID         | Nombre     |Descripción |
 | ----------------- | --------------------------------- |-----------------|
@@ -53,7 +53,7 @@ Conforme las plataformas de peer-to-peer se vuelven más populares y abarcan má
 |RI4| Asesorías agendadas| El sistema guarda las asesorías agendadas con Fecha, Clave única (fk), Clave única asesor (fk), clave materia (fk) y costo|
 |RI5|Historial asesorías| El sistema guarda todas las asesorías que se realizaron. (Fecha, clave única alumno, clave única asesor)|
 
-### Requisitos funcionales del sistema
+### Requerimientos funcionales del sistema
 
 | ID         | Nombre     |Descripción |
 | ----------------- | --------------------------------- |-----------------|
@@ -91,6 +91,14 @@ Conforme las plataformas de peer-to-peer se vuelven más populares y abarcan má
 |RF32|Contacto con asesores|El sistema despliega formas de contacto con los asesores|
 |RF33|Eliminar alumno|El sistema permite eliminar alumno en la base de datos con permiso de los administradores|
 |RF34|Modificar registro de alumno|El sistema permite que se actualice la base de datos por alumno o administrador|
+|RF35|Visualizar materias impartidas por cada asesor|EL sistema deberá desplegar la relación de materias co asesores|
+|RF36|Descargar guías de materias| El sistema permite la descarga de material relacionado con la materia de la asesoría|
+|RF37|Descarga ejercicios prácticos por materia|El sistema deberá permitir descargar documentos pdf previamente registrados por los asesores|
+|RF38|Visualizar precios de clase|El sistema deberá permitir desplegar los precios de las diferentes asesorías|
+|RF39|Monto acumulado|El sistema deberá permitir que los asesores vean el monto acumulado por las asesorías impartidas|
+|RF40|Aclaración saldo|El sistema deberá permitir que el asesor tenga contacto con administradores para aclarar situación económica|
+
+
 
 
 
@@ -112,9 +120,9 @@ https://isabelavlls.atlassian.net/jira/software/projects/IT/boards/1/roadmap?sha
 |12 horas semanales |Cantidad de horas semanales que pueden trabajar los programadores. Cada desarrollador cuenta con 2 horas de trabajo semanal | Se busca mejorar el ánimo del equipo y evitar errores por cansancio y aumentar productividad |
 
 
-#1
+### 1
 
-Qué -Visualización correcta del asesor 
+Qué  -Visualización correcta del asesor 
 
 Quién - Victoria Ordorica Pardo
 

@@ -174,8 +174,6 @@ Conforme las plataformas de peer-to-peer se vuelven más populares y abarcan má
 |**Documentación**| Visto bueno por todos los integrantes del equipo|
 
 
-
-
 | |**Plan de calidad  5**|
 | ----------------- | ---------------------- |
 |**Qué**|Correcta implementación de base de datos|

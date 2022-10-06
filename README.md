@@ -4,18 +4,18 @@
 # :notebook_with_decorative_cover: Tabla de contenidos
 
 - [Sobre el proyecto](#star2-sobre-el-proyecto)
-  * [Integrantes del proyecto](#integrantes-del-equipo)
-  * [Resumen del producto](#resumen-del-producto)
-  *[Requisitos](#requisitos)
+  * Integrantes del proyecto
+  * Resumen del producto
+  * Requisitos
   
-- [Roadmap](#roadmap)
+- [Roadmap](#compass-roadmap)
 - [Plan de calidad](#plan-de-calidad)
 
 
 <!-- Sobre el proyecto -->
 ## :star2: Sobre el proyecto
 
-## :wave:Integrantes del Equipo 
+## :wave:Integrantes del Proyecto 
 
   * Luis Fernando Ramirez
 
@@ -36,6 +36,16 @@ Conforme las plataformas de peer-to-peer se vuelven más populares y abarcan má
 
 <!-- Requisitos -->
 ## :grey_question: Requisitos
+### Objetivos del sistema
+| ID         | Nombre     |Descripción |
+| ----------------- | --------------------------------- |-----------------|
+|OBJ01| Reservar asesorías | El sistema deberá gestionar todo lo relacionado con la coordinación de clases entre alumnos asesores y alumnos del ITAM |
+|OBJ02| Ofrecer asesorías |El sistema deberá permitir que alumnos del ITAM puedan ofrecer clases con beneficios económicos |
+|OBJ3|Gestionar asesorías| El sistema permitira que el administrador tenga control de todas las clases impartidas |
+
+### Requisitos funcionales de información
+
+### Requisitos funcionales del sistema
 
 
 <!-- Roadmap -->
@@ -43,4 +53,15 @@ Conforme las plataformas de peer-to-peer se vuelven más populares y abarcan má
 https://isabelavlls.atlassian.net/jira/software/projects/IT/boards/1/roadmap?shared=&atlOrigin=eyJpIjoiODZlNTcxNjM5MTM3NDU1YWExMjQ1OWIwYTA1NGM1MTIiLCJwIjoiaiJ9
 
 ## Plan de calidad
+
+| Práctica          | Desarollo      |Objetivos y Fundamentos |
+| ----------------- | ------------------------------------------------------- |-----------------|
+| Planificación | Planificar el trabajo del proyecto en iteraciones de 1 semana de duración con comunicación constante por medio de Daily Standup |Aplicar un proceso de desarrollo flexible que se adapte a las necesidades del cliente. Obtener retroalimentación del usuario |
+| Arquitectura | Documentar la arquitectura seleccionada básica en un diagrama|Se busca lograr una estructura del sistema en una forma que todos los integrantes del equipo comprendan el funcionamiento del sistema |
+| Diseño simple | Realizar el código lo más simple posible y comentado correctamente |Se busca que el código sea simple para que cada uno de los desarrolladores entiendan los pasos que se están realizando y no se pierda tiempo en entender los procesos |
+| Pruebas unitarias | Realizar pruebas a medida que se desarrolla el sistema |Se busca qué durante el desarrollo se realicen pruebas unitarias para encontrar errores lo más temprano posible y así no perder tiempo en escribirlo |
+| Refactoreo | Mientras se desarrolla el sistema, los programadores mejoran el código y documentación continuamente | Se busca que el diseño se mantenga simple, que el número de errores sea menor y los programadores puedan desarrollarlo más fácil |
+|Integración continua |Integrar las distintas partes desarrolladas del sistema |Disminuir el número de errores presentes en la etapa de integración por falta de congruencia |
+|Propiedad colectiva | Se desarrolla en paralelo para que todos conozcan el código y lógica de solución | Se busca que los programadores conozcan todo el código para que sea más ágil y más flexible el proceso de desarollo |
+|12 horas semanales |Cantidad de horas semanales que pueden trabajar los programadores. Cada desarrollador cuenta con 2 horas de trabajo semanal | Se busca mejorar el ánimo del equipo y evitar errores por cansancio y aumentar productividad |
 

@@ -45,7 +45,21 @@ Conforme las plataformas de peer-to-peer se vuelven más populares y abarcan má
 
 ### Requisitos funcionales de información
 
+| ID         | Nombre     |Descripción |
+| ----------------- | --------------------------------- |-----------------|
+|RI1| Alumnos | El sistema deberá guardar información sobre los alumnos registrados en el sistema. (Clave única, Nombre y Contraseña)|
+|RI2|Asesores|El sistema deberá guardar información sobre los asesores asignados por los administradores. (Clave única, Nombre, contraseña, materias impartidas)|
+|RI3|Materias | El sistema guarda las materias que se imparten en las asesorías. (Nombre, Clave de materia, asesores)|
+|RI4| Asesorías agendadas| El sistema guarda las asesorías agendadas con Fecha, Clave única (fk), Clave única asesor (fk), clave materia (fk) y costo|
+|RI5|Historial asesorías| El sistema guarda todas las asesorías que se realizaron. (Fecha, clave única alumno, clave única asesor)|
+
 ### Requisitos funcionales del sistema
+
+| ID         | Nombre     |Descripción |
+| ----------------- | --------------------------------- |-----------------|
+|RF1| | |
+|RF2| | |
+|RF3| | |
 
 
 <!-- Roadmap -->

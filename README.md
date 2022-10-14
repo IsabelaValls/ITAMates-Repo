@@ -183,3 +183,11 @@ Conforme las plataformas de peer-to-peer se vuelven más populares y abarcan má
 |**Para qué**|Asegurar una BD segura y robusta que pueda manejar las solicitudes y estar siempre activa|
 |**Documentación**| Visto bueno por todos los integrantes del equipo|
 
+### Estimación del avance y costo del sistema
+
+A continuación presentamos la primera estimación de costo y tiempo de implementación del sistema:
+
+
+<img width="386" alt="Captura de Pantalla 2022-10-13 a la(s) 23 12 09" src="https://user-images.githubusercontent.com/35547664/195761001-f3bdf460-d846-4248-8676-19d89b5fb24f.png">
+
+Por el momento solo contamos con 200 horas de trabajo divididas en 6 programadores. Nuestra primera estimación nos permite llegar hasta el requerimiento 18 si contamos todos los casos especificos presentados previamente. 

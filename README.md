@@ -185,9 +185,20 @@ Conforme las plataformas de peer-to-peer se vuelven más populares y abarcan má
 
 ### Estimación del avance y costo del sistema
 
+### Primera estimación
+
 A continuación presentamos la primera estimación de costo y tiempo de implementación del sistema:
 
 
 <img width="386" alt="Captura de Pantalla 2022-10-13 a la(s) 23 12 09" src="https://user-images.githubusercontent.com/35547664/195761001-f3bdf460-d846-4248-8676-19d89b5fb24f.png">
 
 Por el momento solo contamos con 200 horas de trabajo divididas en 6 programadores. Nuestra primera estimación nos permite llegar hasta el requerimiento 18 si contamos todos los casos especificos presentados previamente. 
+
+### Segunda estimación
+
+Nuestra segunda estimación de costo basándonos en la metodología ágil.
+<img width="508" alt="Captura de Pantalla 2022-10-27 a la(s) 18 32 22" src="https://user-images.githubusercontent.com/35547664/198416886-eca5e0b4-6525-4ccd-8d7a-403b37bf4608.png">
+<img width="519" alt="Captura de Pantalla 2022-10-27 a la(s) 18 32 49" src="https://user-images.githubusercontent.com/35547664/198416898-bd454b7f-b748-419e-91d8-1ad18fde11d0.png">
+
+<img width="497" alt="Captura de Pantalla 2022-10-27 a la(s) 18 33 01" src="https://user-images.githubusercontent.com/35547664/198416917-4397338d-8fb0-4c10-b8a1-ade74e8343f7.png">
+<img width="519" alt="Captura de Pantalla 2022-10-27 a la(s) 18 33 14" src="https://user-images.githubusercontent.com/35547664/198416929-9e6dcea4-75ff-4638-a511-b63edcce1708.png">

@@ -145,9 +145,9 @@ Conforme las plataformas de peer-to-peer se vuelven más populares y abarcan má
 
 | |**Plan de calidad  2**|
 | ----------------- | ---------------------- |
-|**Qué**| Cobro correcto de una clase|
+|**Qué**| Correcto cobro de una asesoría|
 |**Quién**| Luis Fernando Ramírez|
-|**Cuándo**|  Iniciar el 30 de Octubre |
+|**Cuándo**|  Iniciar el 10 de Noviembre |
 |**Cómo**|  Pago mediante Paypal, envío de correo de confirmación de pago al alumno, visibilidad de los datos de la clase en la cuenta del alumno| 
 |**Para qué**| Mayor seguridad del usuario para realizar el pago en línea; Cuenta de PayPal vigente con datos fiscales correctos|
 |**Documentación**| Visto bueno por todos los integrantes del equipo; Registro de las facturas |

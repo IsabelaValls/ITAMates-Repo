@@ -215,4 +215,6 @@ La implementación del proyecto está en proceso pero las estimaciones fueron er
 
 <img width="610" alt="Captura de Pantalla 2022-11-10 a la(s) 17 17 16" src="https://user-images.githubusercontent.com/35547664/201226145-2a4603b2-1b65-4abf-811c-1d8c476e910c.png">
 
+<img width="827" alt="Captura de Pantalla 2022-11-10 a la(s) 17 26 28" src="https://user-images.githubusercontent.com/35547664/201227240-d38d376e-7b93-422a-b17c-22277c452e83.png">
+
 

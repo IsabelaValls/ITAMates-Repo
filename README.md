@@ -12,6 +12,7 @@
   
 - [Roadmap](#compass-roadmap)
 - [Plan de calidad](#warning-plan-de-calidad)
+- [Avance del proyecto](#avance-del-proyecto)
 
 
 <!-- Sobre el proyecto -->
@@ -207,3 +208,11 @@ Nuestra segunda estimación de costo basándonos en la metodología ágil.
 
 <img width="497" alt="Captura de Pantalla 2022-10-27 a la(s) 18 33 01" src="https://user-images.githubusercontent.com/35547664/198416917-4397338d-8fb0-4c10-b8a1-ade74e8343f7.png">
 <img width="519" alt="Captura de Pantalla 2022-10-27 a la(s) 18 33 14" src="https://user-images.githubusercontent.com/35547664/198416929-9e6dcea4-75ff-4638-a511-b63edcce1708.png">
+
+
+## Avance del proyecto
+La implementación del proyecto está en proceso pero las estimaciones fueron erróneas. Tomara más tiempo para lograr implementar las funciones básicas de la aplicación.
+
+<img width="610" alt="Captura de Pantalla 2022-11-10 a la(s) 17 17 16" src="https://user-images.githubusercontent.com/35547664/201226145-2a4603b2-1b65-4abf-811c-1d8c476e910c.png">
+
+

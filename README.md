@@ -17,7 +17,7 @@
 - [Plan de calidad](#warning-plan-de-calidad)
 - [Avance del proyecto](#avance-del-proyecto)
 - [Primer Demo](#primer-demo)
-- [Presentación] (#presentación)
+- [Presentación](#presentación)
 
 
 <!-- Sobre el proyecto -->

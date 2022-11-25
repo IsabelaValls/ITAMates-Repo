@@ -3,7 +3,7 @@
 
 <a href="https://itamates22.ga/">LinkITAMates</a>
 
-<a href="https://itamates.my.canva.site/#page-5">LinkITAMates2</a>
+<a href="https://itamates.my.canva.site">LinkITAMates2</a>
 
 <!-- Tabla de contenidos -->
 # :notebook_with_decorative_cover: Tabla de contenidos

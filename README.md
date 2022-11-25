@@ -1,6 +1,9 @@
 # ITAMates-Repo
+![IMG_0297-1](https://user-images.githubusercontent.com/35547664/204051741-d2f682aa-72dc-4a93-b51a-f86d5dd49a73.jpg)
+
 <a href="https://itamates22.ga/">LinkITAMates</a>
 
+<a href="https://itamates.my.canva.site/#page-5">LinkITAMates2</a>
 
 <!-- Tabla de contenidos -->
 # :notebook_with_decorative_cover: Tabla de contenidos
@@ -14,6 +17,7 @@
 - [Plan de calidad](#warning-plan-de-calidad)
 - [Avance del proyecto](#avance-del-proyecto)
 - [Primer Demo](#primer-demo)
+- [Presentación] (#presentación)
 
 
 <!-- Sobre el proyecto -->
@@ -223,4 +227,12 @@ La implementación del proyecto está en proceso pero las estimaciones fueron er
 
 Presentamos el video del primer demo de la página, presentamos errores en el hosteo de la página
 <a href="https://drive.google.com/file/d/1IRwGsR9_qaSYbd5CSZENOd_T6bKuWjuM/view?usp=sharing">LinkPrimerDemo</a>
+
+
+## Presentación
+
+Adjuntamos la presentación del proyecto completo.
+
+<a href="https://www.canva.com/design/DAFS5h65mao/VdKb5xjKox86z6S4ypPVQg/view?utm_content=DAFS5h65mao&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">LinkPresentación</a>
+
 
